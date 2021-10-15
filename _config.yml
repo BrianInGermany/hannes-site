@@ -1,5 +1,5 @@
 theme: jekyll-theme-time-machine
 title: Bruno Butterfly
 header:
-  teaser: "hannesPreview.png"
+  teaser: "/hannesPreview.png"
 
