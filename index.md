@@ -2,7 +2,7 @@
 layout: default
 title: Wilkommen bei Hannes
 header:
-  teaser: "/hannesPreview.png"
+  teaser: "/hannes-site/hannesPreview.png"
 ---
 
 ## Willkommmen bei Hannes
