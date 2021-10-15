@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Wilkommen bei Hannes
+title: Bruno Butterfly
+description: Musik von Hannes
 header:
   teaser: "/hannes-site/hannesPreview.png"
 ---
